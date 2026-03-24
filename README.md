@@ -1,4 +1,4 @@
-\# 📈 Stock Price Prediction using Machine Learning
+## 📈 Stock Price Prediction using Machine Learning
 
 An end-to-end Machine Learning project designed to predict stock prices using historical market data and deep learning techniques. This project leverages time-series forecasting methods to model stock trends and provide future price estimations.
 
@@ -15,6 +15,8 @@ The model learns temporal dependencies from historical stock prices and generate
 ## 🎯 Objectives
 
 <img width="1203" height="670" alt="Screenshot 2026-02-06 175323" src="https://github.com/user-attachments/assets/1f13485a-6b81-48df-82cd-5cfe70e18921" />
+
+
 
 
 * Predict future stock prices using historical data
