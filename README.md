@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stock Price Prediction using LSTM
 
 Deep learning project to predict stock prices using Long Short-Term Memory (LSTM) networks.
@@ -17,3 +18,7 @@ Deep learning project to predict stock prices using Long Short-Term Memory (LSTM
    ```bash
    python main.py --ticker MSFT --epochs 25
    ```
+=======
+# Stock-Price-Prediction
+ml project
+>>>>>>> 28e4d7442e10f78216364f566107edabd960badc
